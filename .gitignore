@@ -1,6 +1,7 @@
 .DS_Store
 *.pdc
-# /arquivos/**
+/arquivos/*.pdf
+/arquivos/**/*.pdf
 /.venv/*
 /.venv/*/*
 /.venv/**
