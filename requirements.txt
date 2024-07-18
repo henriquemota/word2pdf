@@ -1,0 +1,17 @@
+cffi==1.16.0
+colorama==0.4.6
+cryptography==42.0.5
+docx2pdf==0.1.8
+greenlet==3.0.3
+lxml==5.2.0
+numpy==1.26.4
+pandas==2.2.1
+pycparser==2.22
+python-dateutil==2.9.0.post0
+python-dotenv==1.0.1
+pytz==2024.1
+# pywin32==306
+six==1.16.0
+tqdm==4.66.2
+typing_extensions==4.10.0
+tzdata==2024.1
